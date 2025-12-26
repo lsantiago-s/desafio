@@ -172,5 +172,3 @@ In addition, the script prints a verbose result to standard output, including wa
 - The agent is multi-agent by design, with separate nodes for ingestion, retrieval, classification, extraction, and review.
 
 - Access to the vector store is exclusively mediated by MCP, ensuring a clean separation between the agent logic and storage layers.
-
-- The pipeline is designed to be robust to failures, incorporating JSON schema validation, automatic repair loops, and explicit warnings when extraction or classification is degraded.
