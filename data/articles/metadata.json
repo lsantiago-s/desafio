@@ -1,0 +1,56 @@
+[
+    {
+        "id": "math_001",
+        "area": "Mathematics",
+        "title": "Recent Advances in Stochastic Gradient Descent in Deep Learning",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/math_001.pdf" }
+    },
+    {
+        "id": "math_002",
+        "area": "Mathematics",
+        "title": "Auto-Encoders in Deep Learning—A Review with New Perspectives",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/math_002.pdf" }
+    },
+    {
+        "id": "math_003",
+        "area": "Mathematics",
+        "title": "Deep Time Series Forecasting Models: A Comprehensive Survey",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/math_003.pdf" }
+    },
+    {
+        "id": "econ_001",
+        "area": "Economics",
+        "title": "INDEBTED DEMAND",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/econ_001.pdf" }
+    },
+    {
+        "id": "econ_002",
+        "area": "Economics",
+        "title": "THE GLOBAL DECLINE OF THE LABOR SHARE",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/econ_002.pdf" }
+    },
+    {
+        "id": "econ_003",
+        "area": "Economics",
+        "title": "Pandemia e desemprego no Brasil: uma análise da crise de Covid-19",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/econ_003.pdf" }
+    },
+    {
+        "id": "med_001",
+        "area": "Medicine",
+        "title": "The incidence of diagnostic error in medicine",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/med_001.pdf" }
+    },
+    {
+        "id": "med_002",
+        "area": "Medicine",
+        "title": "Amyloid Oligomers Exacerbate Tau Pathology in a Mouse Model of Tauopathy",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/med_002.pdf" }
+    },
+    {
+        "id": "med_003",
+        "area": "Medicine",
+        "title": "Cognitive Load Theory: Implications for medical education: AMEE Guide No. 86",
+        "source": { "type": "pdf", "path": "data/articles/pdfs/med_003.pdf" }
+    }
+]

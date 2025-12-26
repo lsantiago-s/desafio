@@ -1,0 +1,10 @@
+--metadata-path data/articles/metadata.json
+--collection aaa
+--chunk-size 40
+--chunk-overlap 10
+--embedding-model sentence-transformers/all-mpnet-base-v2
+--normalize-embeddings
+--batch-size 32
+--max-length 512
+--device cpu
+--reset
